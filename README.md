@@ -5,7 +5,7 @@
 
 我是贺丰宝 @hefengbao
 
-## 👀 编程
+## 👨‍💻 编程
 
 工作主要使用 PHP(Laravel) 做一些简单的项目;
 
@@ -21,6 +21,17 @@ Foxmail：hefengbao
 
 ## 🐛 项目
 
+开发几款以中药材名命名的应用，且看能不能开出一剂有效的“药方”。
+
+- [京墨](https://github.com/hefengbao/jingmo)
+- [玉竹](https://github.com/hefengbao/yuzhu)
+
+## 👀 参与开源项目
+
+工作中的项目基本要按别人的要求来，而开源项目则可以把自己的想法变成产品。
+
+
+![](./2024.jpg)
 
 
 <!---
